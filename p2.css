@@ -2,6 +2,10 @@
     height: 917px;
 }
 
+.head{
+    margin-bottom:0px;
+}
+
 .parallax{
     padding: 19px;
     font-size: 13px;
