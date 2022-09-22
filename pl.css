@@ -10,7 +10,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url(p2.jpg);
+    background: url(p2.jpg) fixed;
 }
 
 .parallax{
@@ -48,7 +48,7 @@
 }
 
 .explore{
-  background: url(p4.jpg);
+  background: url(p4.jpg) fixed;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -91,7 +91,7 @@
   }
   
   .look{
-    background: url(p2.jpg);
+    background: url(p2.jpg) fixed;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -138,7 +138,7 @@
     justify-content: center;
     align-items: center;
     height: 746px;
-    background: url(p3.jpg);
+    background: url(p3.jpg) fixed;
   }
   
   .d{
